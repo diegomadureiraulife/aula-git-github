@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 teste1234
+=======
+teste123
+>>>>>>> 78da7933d31d1b7d6eaa8d2d820c4ea6e0807ebb
