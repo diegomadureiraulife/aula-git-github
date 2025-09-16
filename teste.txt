@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 teste 123
+=======
+teste1234
+>>>>>>> fbefab9f3b45d76287a6daf17e4a028a4e48deac
